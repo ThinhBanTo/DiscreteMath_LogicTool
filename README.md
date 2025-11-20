@@ -63,7 +63,7 @@ Thực hiện các bước sau trong Terminal (Command Prompt/Bash):
     * Chương trình xử lý các phép toán theo mức độ ưu tiên sau (nếu không có ngoặc `()`):
         | Ưu tiên | Phép toán |
         | :---: | :--- |
-| **1 (Cao nhất)** | **NOT** (Phủ định) |
+        | **1 (Cao nhất)** | **NOT** (Phủ định) |
         | **2** | **AND** (Hội) |
         | **3** | **OR** / **XOR** (Tuyển / Tuyển loại) |
         | **4** | **IMPLIES** (Kéo theo) |
@@ -138,7 +138,3 @@ F T F F
 F F T F  
 F F F F  
 => Contingency!
-Beta
-0 / 10
-used queries
-1
